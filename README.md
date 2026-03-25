@@ -1,2 +1,2 @@
-# bookStoreApp
+# BookStoreApp
 Book Store Application
